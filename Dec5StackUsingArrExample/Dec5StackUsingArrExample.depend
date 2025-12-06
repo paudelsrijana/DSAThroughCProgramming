@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1764905322 source:e:\teaching documents\data structure and algorithm\programs\dec5stackusingarrexample\main.c
+	<stdio.h>
+	<stdlib.h>
+
