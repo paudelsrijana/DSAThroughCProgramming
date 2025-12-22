@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1766250257 source:e:\teaching documents\data structure and algorithm\programs\dec21priorityqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+
